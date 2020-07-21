@@ -16,6 +16,6 @@ console.log(addition(42));
 // Write a function that takes in the year you were born and figures out how old yuo will be in 2099
 
 const howOld = (num) => {
-  return  ` In 2099 I will be ${2099 - num}`;
+  return ` In 2099 I will be ${2099 - num}`;
 };
 console.log(howOld(2000));
